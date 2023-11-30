@@ -1,2 +1,2 @@
 # Percobaan
-hanya percobaan
+hanya percobaan pembelajaran matakuliah pengantar teknologi informasi
